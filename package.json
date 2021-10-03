@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/BlueBirdMC/RakNet.git"
   },
+  "author": "DRAGKILLS",
   "license": "MIT",
   "dependencies": {
     "bluebirdmc-binarystream": "git+https://github.com/PocketNode/PocketNode-BinaryStream.git"
