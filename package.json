@@ -8,16 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PocketNode/RakNet.git"
+    "url": "git+https://github.com/BlueBirdMC/RakNet.git"
   },
-  "keywords": [
-    "raknet",
-    "raknet-node",
-    "pocketnode"
-  ],
-  "author": "eDroid",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "dependencies": {
-    "pocketnode-binarystream": "git+https://github.com/PocketNode/PocketNode-BinaryStream.git"
+    "bluebirdmc-binarystream": "git+https://github.com/PocketNode/PocketNode-BinaryStream.git"
   }
 }
