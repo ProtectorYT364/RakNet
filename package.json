@@ -13,6 +13,6 @@
   "author": "DRAGKILLS",
   "license": "MIT",
   "dependencies": {
-    "bluebirdmc-binarystream": "git+https://github.com/PocketNode/PocketNode-BinaryStream.git"
+    "bluebirdmc-binarystream": "git+https://github.com/BlueBirdMC/NodeBinaryStream.git"
   }
 }
