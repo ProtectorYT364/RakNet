@@ -1,5 +1,5 @@
 {
-  "name": "raknet",
+  "name": "bluebirdmc-raknet",
   "version": "1.0",
   "description": "raknet implementation in node.js",
   "main": "server/RakNetServer.js",
