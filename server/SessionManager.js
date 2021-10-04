@@ -1,6 +1,6 @@
 const Session = require("./Session");
 
-const BinaryStream = require("pocketnode-binarystream");
+const BinaryStream = require("bluebirdmc-binarystream");
 
 const OfflineMessage = require("../protocol/OfflineMessage");
 const OfflineMessageHandler = require("./OfflineMessageHandler");
