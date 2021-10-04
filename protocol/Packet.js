@@ -1,4 +1,4 @@
-const BinaryStream = require("pocketnode-binarystream");
+const BinaryStream = require("bluebirdmc-binarystream");
 
 class Packet {
     static getId(){
