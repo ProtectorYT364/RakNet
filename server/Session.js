@@ -1,7 +1,7 @@
 const Packet = require("../protocol/Packet");
 
 const RakNet = require("../RakNet");
-const BinaryStream = require("pocketnode-binarystream");
+const BinaryStream = require("bluebirdmc-binarystream");
 
 const Datagram = require("../protocol/Datagram");
 const EncapsulatedPacket = require("../protocol/EncapsulatedPacket");
