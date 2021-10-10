@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlueBirdMC/RakNet.git"
+    "url": "https://github.com/BlueBirdMC/RakNet.git"
   },
   "author": "DRAGKILLS",
   "license": "MIT",
   "dependencies": {
-    "bluebirdmc-binarystream": "git+https://github.com/BlueBirdMC/NodeBinaryStream.git"
+    "bluebirdmc-binarystream": "https://github.com/BlueBirdMC/NodeBinaryStream.git"
   }
 }
